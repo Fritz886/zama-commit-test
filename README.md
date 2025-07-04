@@ -1,5 +1,5 @@
 # zama-commit-test
-just for test
+# just for test
 echo "Commit 2 line" >> README.md
 git add README.md
 git commit -m "Commit 2"
